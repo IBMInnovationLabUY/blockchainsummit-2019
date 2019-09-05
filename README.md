@@ -67,11 +67,6 @@ En la primera etapa de este hands-on vimos una introducción a IBM Blockchain Pl
 * Desplegar localmente una red de blockchain para un programa de fidelización de clientes.
 
 
-* Utilizar IBP en la nube para XXXXXXXXXXXXX AUN NO ESTA DEFINIDO
-
-
-
-
 ## Lab 1
 
 
